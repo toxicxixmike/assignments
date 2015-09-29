@@ -54,3 +54,4 @@ var Cheat={
                 for (var grade in Upgrade){  /* for indicates what something is being used on*git 
                     Upgrade[grade].effect();
 
+-
