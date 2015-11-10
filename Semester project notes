@@ -1,0 +1,73 @@
+Notes for my project-
+
+Message board is my Project
+
+- Post message
+- Display name
+- Timestamp
+- Reply section
+
+Inputs
+______
+
+-Name
+- Message
+- New post/repost or reply
+
+
+Outputs
+_______
+
+- Name
+- Message 
+- Timestamp
+- Who are they replying to
+
+
+
+
+
+
+Storage options
+
+- Memory (variables)
+
+I can store messages through 
+-Strings
+-lists
+-Array 
+-Objects
+
+
+- Using Object-orientated setting a user as a "Web op" and then the other people who comment on the page as "guest"
+
+
+
+
+
+Post
+____
+
+Variables-
+
+-name       (string)
+-message     (string)
+-timestamp   (string)
+-replies     (List)
+     " John: Great idea, Arrays are cool!"
+     " Giang: Frankly I think its a bad idea."
+ 
+ 
+ 
+ 
+ =SUBMIT WITH PROJECT=
+ 
+- Passing tests
+
+=- Requirements
+-= Names
+-= Description
+
+- Code
+- Workflow
+- JavaScript
