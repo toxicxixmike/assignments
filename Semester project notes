@@ -1,6 +1,6 @@
 Notes for my project-
 
-Message board is my Project
+Message board 
 
 - Post message
 - Display name
@@ -54,9 +54,7 @@ Variables-
 -message     (string)
 -timestamp   (string)
 -replies     (List)
-     " John: Great idea, Arrays are cool!"
-     " Giang: Frankly I think its a bad idea."
- 
+     
  
  
  
@@ -71,3 +69,4 @@ Variables-
 - Code
 - Workflow
 - JavaScript
+
